@@ -12,7 +12,7 @@ the goals of the project will be:
 - the drone must be open sourced and most of the components must be able to be 3D printed 
 - the drone must have photo/video taking capabilities
 - the drone must be a viable alternate on current consumer drones
-     - it should possess the basic capabilities of a camara drone
+     - it should possess the basic capabilities of a camara consumer drone
         - time of flight 
         - safety protocols 
         -reliable performance
