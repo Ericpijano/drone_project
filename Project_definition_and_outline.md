@@ -1,11 +1,11 @@
 # drone_project
 
-this repository will capture the progress and relevant information regarding the creation of a "Do-It-Yourself Drone"
+This repository will capture the progress and relevant information regarding the creation of a "Do-It-Yourself Drone"
 
-the drone that will be made in this project should be "easily" replicated and made by someone following this Repo
+The drone that will be made in this project should be "easily" replicated and made by someone following this Repo
 
 
-the goals of the project will be: 
+The goals of the project will be: 
 - conduct an engineering approach on a creation of a drone 
      - from materials selection to design decisions should be research backed
      - attached all relevant links and documents in support for the engineering decisions
@@ -19,13 +19,13 @@ the goals of the project will be:
 - additional goals will be further defined as the project progressed 
 
 
-project deadline : 
-!!! june 22 !!!
-
 Project official Start:
 !!! May 1st !!!
 
-current progress :
+Project deadline : 
+!!! june 22 !!!
+
+Current progress :
 - research of the filament material 
   - what filament type is best for drone manufacturing 
   
