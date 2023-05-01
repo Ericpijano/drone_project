@@ -5,9 +5,8 @@ this repository will capture the progress and relevant information regarding the
 the drone that will be made in this project should be "easily" replicated and made by someone following this Repo
 
 
-the goals of the project will be 
-
--conduct an engineering approach on a creation of a drone 
+the goals of the project will be: 
+- conduct an engineering approach on a creation of a drone 
      - from materials selection to design decisions should be research backed
      - attached all relevant links and documents in support for the engineering decisions
 - the drone must be open sourced and most of the components must be able to be 3D printed 
