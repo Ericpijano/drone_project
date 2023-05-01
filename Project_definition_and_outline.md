@@ -20,9 +20,11 @@ The drone that will be made in this project should be "easily" replicated and ma
 
 
 **Project official Start**:
+
 !!! May 1st !!!
 
 **Project deadline**: 
+
 !!! june 22 !!!
 
 **Skills will be learned**
