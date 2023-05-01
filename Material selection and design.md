@@ -6,3 +6,6 @@ Design analysis:
 
 general steps in 3D printing a drone
 https://www.proquest.com/docview/2044303035/fulltextPDF/A33AF8138E1B4584PQ/1?accountid=13631
+
+reddit link 
+https://www.reddit.com/r/Multicopter/comments/8cjsog/best_3d_printing_plastic_for_drone_frames/
