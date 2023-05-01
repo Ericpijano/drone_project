@@ -15,7 +15,7 @@ The drone that will be made in this project should be "easily" replicated and ma
      - it should possess the basic capabilities of a camara consumer drone
         - time of flight 
         - safety protocols 
-        -reliable performance
+        - reliable performance
 - additional goals will be further defined as the project progressed 
 
 
