@@ -19,7 +19,7 @@ The goals of the project will be:
 - additional goals will be further defined as the project progressed 
 
 
-Project official Start:
+**Project official Start**:
 !!! May 1st !!!
 
 Project deadline : 
