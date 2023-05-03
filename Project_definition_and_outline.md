@@ -6,7 +6,7 @@ The drone that will be made in this project should be "easily" replicated and ma
 
 
 **The goals of the project will be**: 
-- conduct an engineering approach on a creation of a drone 
+- conduct an engineering approach on the creation of a drone 
      - from materials selection to design decisions should be research backed
      - attached all relevant links and documents in support for the engineering decisions
 - the drone must be open sourced and most of the components must be able to be 3D printed 
@@ -16,6 +16,11 @@ The drone that will be made in this project should be "easily" replicated and ma
         - time of flight 
         - safety protocols 
         - reliable performance
+- the project should lay the foundation for learning different concepts 
+     - the drone will be a "smart" drone. it must be programmable where future smart 
+       systems can be integrated.
+     - a raspberry pi will be used to be the flight controller , handling high level commands
+     - ardupilot for software interface
 - additional goals will be further defined as the project progressed 
 
 
